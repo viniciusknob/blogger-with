@@ -1,0 +1,25 @@
+{
+  "name": "blogger-with",
+  "version": "1.0.0",
+  "description": "Joining useful things simply!",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/viniciusknob/blogger-with.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/viniciusknob/blogger-with/issues"
+  },
+  "homepage": "https://github.com/viniciusknob/blogger-with#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
+}
