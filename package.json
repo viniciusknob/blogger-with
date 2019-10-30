@@ -20,6 +20,9 @@
   },
   "homepage": "https://github.com/viniciusknob/blogger-with#readme",
   "devDependencies": {
-    "gulp": "^4.0.2"
+    "del": "^5.1.0",
+    "gulp": "^4.0.2",
+    "gulp-html-beautify": "^1.0.1",
+    "gulp-replace": "^1.0.0"
   }
 }
